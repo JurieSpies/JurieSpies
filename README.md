@@ -1,14 +1,19 @@
-<h1>Hi 👋, I'm <a href="https://juriespies.co.za" target="blank">Jurie Spies</a>
+<h1 align="center">Hi 👋, I'm <a href="https://juriespies.co.za" target="blank">Jurie Spies</a>
 </h1>
 
 https://user-images.githubusercontent.com/28508616/180639406-facff147-79bc-4eb6-b020-6c2cb3259442.mp4
 
-<h3>Coding enthusiast &
+<h3 align="center">Coding enthusiast &
 frontend developer from South Africa</h3>
 
-- 📫 How to reach me **juriespies@gmail.com**
+### 📫 Like to meet me?
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1K5SbXp7NUftkfao5-nq_nibZd8UGFbmu/view?usp=sharing)
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/juriespies/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+- ### 📩 Email: **juriespies@gmail.com**
+- ### 📄 Know about my experiences [CV](https://drive.google.com/file/d/1K5SbXp7NUftkfao5-nq_nibZd8UGFbmu/view?usp=sharing)
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=juriespies" alt="juriespies" /></a> </p>
 <h3 align="left">Connect with me:</h3>
