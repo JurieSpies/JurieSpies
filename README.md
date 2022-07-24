@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/28508616/180639406-facff147-79bc-4eb6-
 <h3>Coding enthusiast &
 frontend developer from South Africa</h3>
 
-<p align="left"> <a href="#" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=juriespies" alt="juriespies" /></a> </p>
+<p align="left"> <a href="#"  style="pointer-events: none"><img src="https://github-profile-trophy.vercel.app/?username=juriespies" alt="juriespies" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,15 +27,15 @@ frontend developer from South Africa</h3>
 <a href="https://discord.gg/#8095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8095" height="30" width="40" /></a>
 </p>
 
-<a href="#" target="blank" >
+<a href="#" style="pointer-events: none">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juriespies&show_icons=true&locale=en&layout=compact" alt="juriespies" /></p>
 </a>
 
-<a href="#" target="blank">
+<a href="#" style="pointer-events: none">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juriespies&show_icons=true&locale=en" alt="juriespies" /></p>
 </a>
 
-<a href="#" target="blank">
+<a href="#" style="pointer-events: none">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juriespies&" alt="juriespies" /></p>
 </a>
 
