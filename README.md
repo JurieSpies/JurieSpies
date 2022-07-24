@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm <a href="https://juriespies.co.za" target="blank">Jurie Spies</a>
+<h1>Hi 👋, I'm <a href="https://juriespies.co.za" target="blank">Jurie Spies</a>
 </h1>
 
 https://user-images.githubusercontent.com/28508616/180639406-facff147-79bc-4eb6-b020-6c2cb3259442.mp4
 
-<h3 align="center">Coding enthusiast &
+<h3>Coding enthusiast &
 frontend developer from South Africa</h3>
 
 - 📫 How to reach me **juriespies@gmail.com**
