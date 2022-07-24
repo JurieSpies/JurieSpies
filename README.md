@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/28508616/180639406-facff147-79bc-4eb6-
 <h3>Coding enthusiast &
 frontend developer from South Africa</h3>
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=juriespies" alt="juriespies" /></a> </p>
+<p style="cursor: default;" align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=juriespies" alt="juriespies" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
