@@ -31,9 +31,6 @@ frontend developer from South Africa</h3>
 <a href="https://medium.com/@juriespies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@juriespies" height="30" width="40" /></a>
 <a href="https://discord.gg/#8095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8095" height="30" width="40" /></a>
 </p>
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juriespies&show_icons=true&locale=en&layout=compact" alt="juriespies" />
-</div>
   
 <a href="#">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juriespies&show_icons=true&locale=en&layout=compact" alt="juriespies" /></p>
