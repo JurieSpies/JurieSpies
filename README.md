@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm 
   <a href="https://juriespies.co.za" target="blank">Jurie Spies</a>
 </h1>
-
+<br/>
 <span>
   Technology ignites a passion within me, fueling my mind with endless possibilities. I am a persistent individual who refuses to rest until a task is fully accomplished. I am driven by hard work and the belief that true success is earned through dedication and effort, not obtained through shortcuts or easy money. I am eager to take on new and challenging endeavors.
   <span/>
