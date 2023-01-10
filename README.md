@@ -6,8 +6,6 @@
   Technology ignites a passion within me, fueling my mind with endless possibilities. I am a persistent individual who refuses to rest until a task is fully accomplished. I am driven by hard work and the belief that true success is earned through dedication and effort, not obtained through shortcuts or easy money. I am eager to take on new and challenging endeavors.
   <span/>
 
-  <br/>
-
 https://user-images.githubusercontent.com/28508616/180639406-facff147-79bc-4eb6-b020-6c2cb3259442.mp4
 
 <h3>Coding enthusiast &
