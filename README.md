@@ -3,7 +3,7 @@
 </h1>
 
 <span>
-  Technology ignites a passion within me, fueling my mind with endless possibilities. I am a persistent individual who refuses to rest until a task is fully accomplished. I am driven by hard work and the belief that true success is earned through dedication and effort, not obtained through shortcuts or easy money. I am eager to take on new and challenging endeavors.
+  Software engineering is my passion and my profession. I enjoy creating solutions that make a positive impact on people’s lives. I work hard to deliver high-quality products that meet the needs and expectations of my clients. I am a team player who values collaboration and communication with my colleagues and stakeholders.
   <span/>
 
 https://user-images.githubusercontent.com/28508616/180639406-facff147-79bc-4eb6-b020-6c2cb3259442.mp4
