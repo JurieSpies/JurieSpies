@@ -22,7 +22,7 @@ frontend developer from South Africa</h3>
 <a href="https://calendly.com/juriespies/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ### 📩 Email: **juriespies@gmail.com**
-### 📄 Know about my experiences [CV](https://drive.google.com/file/d/1K5SbXp7NUftkfao5-nq_nibZd8UGFbmu/view?usp=sharing)
+### 📄 Know about my experiences [CV](https://drive.google.com/file/d/1EbNpgHpoXuZCyBq5UkU8BhJGE9Xu7Mf4/view?usp=sharing)
 
 <p align="left">
 <a href="https://dev.to/juriespies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juriespies" height="30" width="40" /></a>
