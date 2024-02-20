@@ -45,5 +45,6 @@ frontend developer from South Africa</h3>
 </a>
 
 ### Daily.dev
-  <a href="https://app.daily.dev/JurieSpies"><img src="https://api.daily.dev/devcards/19f40db7454747e49cb39ef8e2355895.png?r=qju" width="400" alt="Jurie Spies's Dev Card"/>
-  </a>
+/* <a href="https://app.daily.dev/JurieSpies"><img src="https://api.daily.dev/devcards/19f40db7454747e49cb39ef8e2355895.png?r=qju" width="400" alt="Jurie Spies's Dev Card"/>
+  </a> */
+  <a href="https://app.daily.dev/juriespies"><img src="https://api.daily.dev/devcards/v2/8RRj-v_Ux.png?r=bea" width="356" alt="Jurie Spies's Dev Card"/></a>
